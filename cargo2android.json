@@ -1,7 +1,9 @@
 {
   "apex-available": [
     "//apex_available:platform",
-    "com.android.resolv"
+    "com.android.bluetooth",
+    "com.android.resolv",
+    "com.android.uwb"
   ],
   "dependencies": true,
   "device": true,
